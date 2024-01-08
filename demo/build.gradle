@@ -1,4 +1,19 @@
 //add everything here
+plugins {
+    id 'java'
+}
+
+java {
+    sourceCompatibility = '1.8'
+}
+
+repositories {
+    mavenLocal()
+}
+
+dependencies {
+    implementation 'org.example.utils:utils:1.3.5'
+}
 
 test {
     useJUnitPlatform()
