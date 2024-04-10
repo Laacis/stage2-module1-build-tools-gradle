@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d868cdbb-bf86-4a91-94da-9bf398ea4898" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/demo/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/demo/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/epam/demo/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/epam/demo/Utils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/utils/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/src/main/java/com/epam/utils/StringUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/utils/src/main/java/com/epam/utils/StringUtils.java" afterDir="false" />
-    </list>
+    <list default="true" id="d868cdbb-bf86-4a91-94da-9bf398ea4898" name="Changes" comment="trying this one more time" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +27,17 @@
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="stage2-build-tools-gradle" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="stage2-build-tools-gradle" type="f1a62948:ProjectNode" />
+                <item name="demo" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="stage2-build-tools-gradle" type="f1a62948:ProjectNode" />
+                <item name="demo" type="2d1252cf:ModuleNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
               </path>
             </expand>
             <select />
@@ -105,8 +108,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1712713939981</updated>
-      <workItem from="1712713941285" duration="6423000" />
+      <workItem from="1712713941285" duration="6595000" />
     </task>
+    <task id="LOCAL-00001" summary="trying this one more time">
+      <option name="closed" value="true" />
+      <created>1712726131289</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712726131290</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,5 +134,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="trying this one more time" />
+    <option name="LAST_COMMIT_MESSAGE" value="trying this one more time" />
   </component>
 </project>
