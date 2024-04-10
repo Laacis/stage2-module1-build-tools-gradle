@@ -1,7 +1,9 @@
 package com.epam.utils;
 
+import  static org.apache.commons.lang3.math.NumberUtils.isParsable;
+
 public class StringUtils {
     public static boolean isPositiveNumber(String str) {
-         //here magic will happen
+        return isParsable(str) && Double.parseDouble(str) > 0;
     }
 }

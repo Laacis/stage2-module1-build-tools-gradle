@@ -1,4 +1,27 @@
-//add everything here
+plugins {
+    // id for library
+    // id for maven to publish jar to local repository
+    id 'java'
+    id 'maven-publish'
+}
+
+java {
+// provide sourceCompatibility
+    sourceCompatibility = '1.8'
+}
+
+repositories {
+// provide repository, where required dependencies are located
+    mavenLocal()
+    mavenCentral()
+}
+
+
+//add Apache Apache Commons Lang 3.10 (or higher) dependency
+dependencies {
+    implementation project(':utils')
+}
+
 
 test {
     useJUnitPlatform()
